@@ -2,7 +2,6 @@
 ### こんにちは!!! 私の名前は xXNeonKitsuneXx です. 👋
 ![This is an image](https://media.tenor.com/y6jyIkLBv4kAAAAC/fubuki-hololive.gif)
 #### Here is about me!
-##### 
 - 🔭 I’m currently studying at KMUTT.
 - 🌱 I’m currently learning at Faculty of Computer Science.
 - 👯 I’m looking to collaborate on -
