@@ -9,6 +9,11 @@
 - 💬 You can ask me about HOLOLIVE!!!
 - ⚡ Fun fact: I am SIMP and Weeb as well as I am so lonely T T.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXNeonKitsuneXx)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXNeonKitsuneXx)<br>
+
+
 ## Some Tools I Have Used and Learned 😺
 
 <p align="left">
