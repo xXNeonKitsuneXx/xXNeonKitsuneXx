@@ -1,6 +1,11 @@
 ### Hello!!! My name is xXNeonKitsuneXx. 👋
 ### こんにちは!!! 私の名前は xXNeonKitsuneXx です. 👋
 ![This is an image](https://i.pinimg.com/originals/d9/31/ed/d931ed452892ff82b978d225c10cf628.gif)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXNeonKitsuneXx)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXNeonKitsuneXx)<br>
+
 #### Here is about me!
 - 🔭 I’m currently studying at KMUTT.
 - 🌱 I’m currently learning at Faculty of Computer Science.
@@ -8,11 +13,6 @@
 - 🤔 I’m looking for help about code.
 - 💬 You can ask me about HOLOLIVE!!!
 - ⚡ Fun fact: I am SIMP and Weeb as well as I am so lonely T T.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXNeonKitsuneXx)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXNeonKitsuneXx)<br>
-
 
 ## Some Tools I Have Used and Learned 😺
 
