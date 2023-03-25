@@ -2,9 +2,7 @@
 ### こんにちは!!! 私の名前は xXNeonKitsuneXx です. 👋
 ![This is an image](https://i.pinimg.com/originals/d9/31/ed/d931ed452892ff82b978d225c10cf628.gif)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXNeonKitsuneXx)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXNeonKitsuneXx)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXNeonKitsuneXx) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXNeonKitsuneXx)
 
 #### Here is about me!
 - 🔭 I’m currently studying at KMUTT.
@@ -18,7 +16,6 @@
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://user-images.githubusercontent.com/117361006/210522816-778ca9e5-d7f0-4da0-b403-a25fb50b1acf.png" alt="bash" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/117361006/210522481-c40e0ec0-9295-40ee-b973-90ae58ac13ed.png" alt="php" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/117361006/210524375-98503965-b439-449e-a70b-59c8f900889d.png" alt="php" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/117361006/210523772-1dc6ffc1-bfad-47ee-ab65-c4b9105851f1.png" alt="php" width="45" height="45"/>
