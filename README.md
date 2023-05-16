@@ -7,9 +7,9 @@
 #### Here is about me!
 - 🔭 I’m currently studying at KMUTT.
 - 🌱 I’m currently learning at Faculty of Computer Science.
-- 👯 I’m looking to collaborate on -
+- 👯 I’m looking to collaborate on internship.
 - 🤔 I’m looking for help about code.
-- 💬 You can ask me about HOLOLIVE!!!
+- 💬 You can ask me about code and Vtuber!!!
 - ⚡ Fun fact: I am SIMP and Weeb as well as I am so lonely T T.
 
 ## Some Tools I Have Used and Learned 😺
