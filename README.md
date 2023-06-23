@@ -2,8 +2,6 @@
 ### こんにちは!!! 私の名前は xXNeonKitsuneXx です. 👋
 ![This is an image](https://i.pinimg.com/originals/d9/31/ed/d931ed452892ff82b978d225c10cf628.gif)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXNeonKitsuneXx) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXNeonKitsuneXx)
-
 #### Here is about me!
 - 🔭 I’m currently studying at KMUTT.
 - 🌱 I’m currently learning at Faculty of Computer Science.
