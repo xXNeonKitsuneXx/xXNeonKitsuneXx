@@ -17,7 +17,8 @@
 
 
 ### 😂 What am I addicted to now?
-<img src='https://memer-new.vercel.app](https://tenor.com/view/umamusumeprettyderby-gif-25343718' style="height: 400px;"/>
+<img src='https://tenor.com/view/umamusumeprettyderby-gif-25343718' style="height: 400px;"/>
+![This is an image]（https://tenor.com/view/umamusumeprettyderby-gif-25343718）
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xXNeonKitsuneXx&icon=5&color=1)](https://visitcount.itsvg.in)
