@@ -12,8 +12,31 @@
 ### ✍️ My Dev Quote
 
 
-### <img src='https://media.tenor.com/AKArRcaZBMYAAAAi/seseren-umamusume.gif' style="height: 100px;"/> What am I addicted to now?
-<img src='https://media.tenor.com/rKW9jfl4cOQAAAAi/seseren-umamusume.gif' style="height: 100px;"/><img src='https://media.tenor.com/ZgtHc2j8whoAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/><img src='https://media.tenor.com/aNLiNygCahQAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/><img src='https://media.tenor.com/4whZtEcSheMAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/><img src='https://media.tenor.com/9k0L0IW2RWwAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/><img src='https://media.tenor.com/lwlECx3uwxoAAAAi/%E3%82%A6%E3%83%9E%E5%A8%98-%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%AA%E3%83%AB%E3%83%89%E3%83%AB%E3%83%95.gif' style="height: 100px;"/><img src='https://media.tenor.com/dZWFeOj-uCoAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/><img src='https://media.tenor.com/eZTUzNHlsg8AAAAi/umamusumeprettyderby.gif' style="height: 100px;"/><img src='https://media.tenor.com/jBNIUaIC13wAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/><img src='https://media.tenor.com/ZB6aVVkPtEEAAAAi/seseren-umamusume.gif' style="height: 100px;"/>
+### What am I addicted to now?
+<img src='https://media.tenor.com/R9S4UicLWJoAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/>
+<img src='https://media.tenor.com/IypCYsnf57UAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/>
+<img src='https://media.tenor.com/crJtlytd7jUAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/>
+<img src='https://media.tenor.com/-fwtVPfmoG0AAAAi/umamusumeprettyderby.gif' style="height: 100px;"/>
+<img src='https://media.tenor.com/ZgtHc2j8whoAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/>
+<img src='https://media.tenor.com/aNLiNygCahQAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/>
+<img src='https://media.tenor.com/4whZtEcSheMAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/>
+<img src='https://media.tenor.com/x45JcAYee1EAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/>
+<img src='https://media.tenor.com/lwlECx3uwxoAAAAi/%E3%82%A6%E3%83%9E%E5%A8%98-%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%AA%E3%83%AB%E3%83%89%E3%83%AB%E3%83%95.gif' style="height: 100px;"/>
+<img src='https://media.tenor.com/rQTNOZSVHsYAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/>
+
+<img src='https://media.tenor.com/GFPutszbDoMAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/>
+<img src='https://media.tenor.com/dZWFeOj-uCoAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/>
+<img src='https://media.tenor.com/eZTUzNHlsg8AAAAi/umamusumeprettyderby.gif' style="height: 100px;"/>
+
+
+<img src='https://media.tenor.com/jBNIUaIC13wAAAAi/umamusumeprettyderby.gif' style="height: 100px;"/>
+<img src='https://media.tenor.com/L-ttuVhKC_0AAAAi/umamusumeprettyderby.gif' style="height: 100px;"/>
+
+
+
+<img src='https://media.tenor.com/rKW9jfl4cOQAAAAi/seseren-umamusume.gif' style="height: 100px;"/>
+<img src='https://media.tenor.com/AKArRcaZBMYAAAAi/seseren-umamusume.gif' style="height: 100px;"/>
+<img src='https://media.tenor.com/ZB6aVVkPtEEAAAAi/seseren-umamusume.gif' style="height: 100px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xXNeonKitsuneXx&icon=5&color=1)](https://visitcount.itsvg.in)
